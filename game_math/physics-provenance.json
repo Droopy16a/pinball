@@ -1,0 +1,27 @@
+{
+  "engine": "247 Expert / Matter.js 0.18.0 with two native divider bumpers",
+  "ruleVersion": 3,
+  "gravity": 0.0024,
+  "step": 2,
+  "frameCadenceHz": 60,
+  "awardUnitPoints": 250,
+  "awardUnitMultiplier": 10,
+  "dividers": [
+    {
+      "x": 690,
+      "y": 1190
+    },
+    {
+      "x": 1030,
+      "y": 1390
+    }
+  ],
+  "bundleSha256": "32f43363c9e333c5bcf74dbd461e054ba5adb5e28d75f9fb43ed235b5a174085",
+  "adapterSha256": "7a184ab5733de588625e2e03565f08ab128c1facd4dba9ec6f364b499558ebc5",
+  "simulationSha256": "4f42738ebecfa71d1947ac5f5e5ffd883471ce1400205aaf8c05bbd45bc95420",
+  "traces": 99,
+  "deterministicChecks": 7,
+  "settlement": "Exact halving in play; final payout rounds upward to 0.1x stake.",
+  "exclusion": "Only natural drains are published; generation timeouts are not losses.",
+  "appearance": "Regular scoring bumpers use bumper_plus_off.webp; divider bumpers retain original art without text overlays."
+}

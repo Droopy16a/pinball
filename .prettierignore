@@ -1,0 +1,9 @@
+node_modules
+dist
+.reference
+public/reference-game
+.venv
+package-lock.json
+test-results
+playwright-report
+game_math

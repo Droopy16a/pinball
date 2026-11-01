@@ -1,0 +1,46 @@
+{
+  "modes": [
+    {
+      "name": "POWER_70",
+      "cost": 1.0,
+      "events": "books_POWER_70.jsonl.zst",
+      "weights": "lookUpTable_POWER_70_0.csv"
+    },
+    {
+      "name": "POWER_75",
+      "cost": 1.0,
+      "events": "books_POWER_75.jsonl.zst",
+      "weights": "lookUpTable_POWER_75_0.csv"
+    },
+    {
+      "name": "POWER_80",
+      "cost": 1.0,
+      "events": "books_POWER_80.jsonl.zst",
+      "weights": "lookUpTable_POWER_80_0.csv"
+    },
+    {
+      "name": "POWER_85",
+      "cost": 1.0,
+      "events": "books_POWER_85.jsonl.zst",
+      "weights": "lookUpTable_POWER_85_0.csv"
+    },
+    {
+      "name": "POWER_90",
+      "cost": 1.0,
+      "events": "books_POWER_90.jsonl.zst",
+      "weights": "lookUpTable_POWER_90_0.csv"
+    },
+    {
+      "name": "POWER_95",
+      "cost": 1.0,
+      "events": "books_POWER_95.jsonl.zst",
+      "weights": "lookUpTable_POWER_95_0.csv"
+    },
+    {
+      "name": "POWER_100",
+      "cost": 1.0,
+      "events": "books_POWER_100.jsonl.zst",
+      "weights": "lookUpTable_POWER_100_0.csv"
+    }
+  ]
+}

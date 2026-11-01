@@ -1,0 +1,79 @@
+{
+  "modes": [
+    {
+      "mode": "POWER_70",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_75",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_80",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_85",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_90",
+      "books": 15,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_95",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    },
+    {
+      "mode": "POWER_100",
+      "books": 14,
+      "rtp": "967/1000",
+      "drains": [
+        "center",
+        "left-gutter",
+        "right-gutter"
+      ]
+    }
+  ],
+  "maxWin": 6.2,
+  "cost": 1,
+  "powerAffectsPhysics": true,
+  "powerAffectsOdds": true,
+  "sampling": "Fixed award prices, exact halve operations, and exact 96.7% RTP in every mode"
+}

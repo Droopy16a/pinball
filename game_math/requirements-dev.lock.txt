@@ -1,0 +1,13 @@
+colorama==0.4.6
+iniconfig==2.3.1
+librt==0.16.0
+mypy==1.20.2
+mypy_extensions==1.1.0
+packaging==26.3
+pathspec==1.1.1
+pluggy==1.7.0
+Pygments==2.21.0
+pytest==9.2.0
+ruff==0.17.3
+typing_extensions==4.16.0
+zstandard==0.25.0

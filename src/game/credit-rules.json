@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "awardUnitPoints": 250,
+  "awardUnitMultiplier": 10,
+  "settlementIncrement": 10,
+  "maxMultiplier": 620,
+  "dividerPositions": [
+    {
+      "x": 690,
+      "y": 1190
+    },
+    {
+      "x": 1030,
+      "y": 1390
+    }
+  ],
+  "rtp": 0.967
+}
